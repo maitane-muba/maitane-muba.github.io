@@ -1,0 +1,11 @@
+# basic options
+title: Maitane Munoz Basagoiti
+author: maitane-muba
+email: maitanemuba@gmail.com
+description: Personal webpage
+twitter_username: b_maitane
+github_username:  maitane-muba
+
+# Build settings
+markdown: kramdown
+theme: minima
