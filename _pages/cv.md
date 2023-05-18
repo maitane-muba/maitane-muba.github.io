@@ -4,5 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+description: Click on the image to download my CV!
+cv_pdf: maitanemuba_cv_updated_15052023.pdf
 ---
