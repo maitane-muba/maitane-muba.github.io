@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have a talk at ISTA's Think & Drink on International Women's day &#9792;
+I have given a talk on symbiosis at ISTA's Think & Drink on International Women's day &#9792;
