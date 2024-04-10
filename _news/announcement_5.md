@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started teaching an introductory course to Molecular Dynamics at ISTA.
+I have started teaching an introductory course on Molecular Dynamics at ISTA.
