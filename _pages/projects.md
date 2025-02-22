@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: In construction...
+description: Coming soon!
 nav: true
 nav_order: 2
 display_categories: [work, fun]
