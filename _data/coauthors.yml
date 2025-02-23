@@ -13,3 +13,20 @@
 "McMullen":
   - firstname: ["Angus", "A", "A."]
     url: https://scholar.google.com/citations?user=pEEnc0oAAAAJ&hl=en
+
+"Šarić":
+  - firstname: ["Andela", "Anđela", "A", "A."]
+    url: https://andelasaric.com
+
+"Frey":
+  - firstname: ["Felix", "F", "F."]
+    url: https://scholar.google.de/citations?user=9FjanV0AAAAJ&hl=de
+
+"Meadowcroft":
+  - firstname: ["Billie", "B", "B."]
+    url: https://scholar.google.com/citations?user=IOYTLieMbHoC&hl=en
+
+"Prada":
+  - firstname: ["Adam", "A", "A."]
+    url: https://adamprada.net/
+
