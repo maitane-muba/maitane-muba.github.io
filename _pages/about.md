@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: 6 rue Ada BYRON 69100 Villeurbanne
+  address:
   
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
